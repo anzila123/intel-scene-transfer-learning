@@ -1,6 +1,6 @@
 # Intel Scene Classification with Transfer Learning (MobileNetV2)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/intel-scene-transfer-learning/blob/main/intel_scene_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anzila123/intel-scene-transfer-learning/blob/main/intel_scene_classification.ipynb)
 
 Classifying natural and urban scenes into 6 categories (**buildings, forest, glacier, mountain, sea, street**) by adapting an ImageNet-pretrained **MobileNetV2**: first as a frozen feature extractor, then with fine-tuning.
 
